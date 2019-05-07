@@ -214,7 +214,7 @@ run the [`check-config.sh`](https://raw.githubusercontent.com/docker/docker/mast
 script.
 
 ```bash
-$ curl https://raw.githubusercontent.com/docker/docker/master/contrib/check-config.sh > check-config.sh
+$ curl https://raw.githubusercontent.com/moby/moby/master/contrib/check-config.sh > check-config.sh
 
 $ bash ./check-config.sh
 ```
